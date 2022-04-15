@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WineNotes</string>
+
+    <string name="intent_purpose_key">Purpose</string>
+    <string name="intent_purpose_add_note">Add</string>
+    <string name="intent_purpose_update_note">Update</string>
+
+    <string name="intent_key_note_id">note id</string>
+    <string name="note_intent_key">Note List</string>
+
+    <string name="add_note_option">Add Note</string>
+    <string name="sort_by_title">Sort by Title</string>
+    <string name="sort_by_date">Sort by Date</string>
+
+    <string name="help_text">(As you type the note will move to the next line. Type as much as you need.)</string>
+</resources>
